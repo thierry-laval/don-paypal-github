@@ -29,3 +29,8 @@ Le bouton 'Donation' fonctionne comme la version Markdown, mais change l'image.
 Si ce projet vous aide à réduire vos temps de développement, vous pouvez m'offrir une tasse de café :-) 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?token=zOp2sDlE8dqTRKSn74QG3qi_fDFLXmxtuG1nNdGN-Tp1YC-U63ezuMNj7QQseIOuoweMAWxQxcIgDIbi&locale.x=US)
+
+
+[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;:tea:&nbsp;&nbsp;Merci! :heart:
+
+
