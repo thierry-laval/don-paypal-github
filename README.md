@@ -7,9 +7,10 @@ Je vous propose deux styles pour afficher la possibilité de recevoir une `donat
 
 ## Markdown
 
+Vous pouvez obtenir sur http://shields.io le lien de l'image au format SVG comme celui-ci :
+
 [![Donation](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
 
-Vous pouvez obtenir sur http://shields.io le lien de l'image au format SVG comme celui-ci :<br>
 Modifier-le avec [le code](https://developer.paypal.com/docs/paypal-payments-standard/integration-guide/donate-step-1/) de votre compte PayPal.
 
 Voir l'exemple ci-dessous :
@@ -18,6 +19,9 @@ Voir l'exemple ci-dessous :
 ```
 
 ## Bouton
+
+
+Vous pouvez obtenir sur PayPal le lien de l'image au format gif comme celui-ci :
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
 
