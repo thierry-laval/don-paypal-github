@@ -1,9 +1,27 @@
-# Créer un bouton de donnation PayPal sur vos pages Github.
+# ![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/logo-portfolio.png)
+
+## Auteur
+
+👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
+
+* Github: [@Thierry Laval](https://github.com/thierry-laval)
+* LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+* Visitez ==> 🏠 [Site Web](https://xXx)
+
+***
+
+### 📎 Projet 20 - Créer un bouton de donnation PayPal sur vos pages Github.
+
+![left 100%](firefox.png?raw=true)
+
+_`Début du projet le 20/07/2021`_
 
 Je vous propose deux styles pour afficher la possibilité de recevoir une `donation` sur vos repos Github.
 
 - Style Markdown
 - Style bouton
+
+***
 
 ## Markdown
 
