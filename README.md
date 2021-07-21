@@ -12,11 +12,9 @@
 
 ### 📎 Projet 20 - Créer un bouton de donnation PayPal sur vos pages Github.
 
-![left 100%](firefox.png?raw=true)
-
 _`Début du projet le 20/07/2021`_
 
-Je vous propose deux styles pour afficher la possibilité de recevoir une `donation` sur vos repos Github.
+Je vous propose deux styles d'affichage pour avoir la possibilité de recevoir une `donation` sur vos repos Github.
 
 - Style Markdown
 - Style bouton
