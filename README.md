@@ -9,7 +9,7 @@ Je vous propose deux styles pour afficher la possibilité de recevoir une `donat
 
 [![Donation](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
 
-Vous pouvez obtenir sur http://shields.io le lien de l'image au format SVG comme celui-ci:
+Vous pouvez obtenir sur http://shields.io le lien de l'image au format SVG comme celui-ci :<br>
 Modifier-le avec [le code](https://developer.paypal.com/docs/paypal-payments-standard/integration-guide/donate-step-1/) de votre compte PayPal.
 
 Voir l'exemple ci-dessous :
