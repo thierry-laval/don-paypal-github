@@ -7,7 +7,7 @@ Je vous propose deux styles pour afficher la possibilité de recevoir une `donat
 
 ## Markdown
 
-[![Donation](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?token=lxe1uunwHIr7Uv_lfMbxoLxkI1J7_ua-thQ66Bf6troHdxf7Ved_OtyTcuw9dDaCWyJcfwK3p0a_t5Bb&locale.x=FR)
+[![Donation](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
 
 Vous pouvez obtenir sur http://shields.io le lien de l'image au format SVG comme celui-ci:
 Modifier-le avec [le code](https://developer.paypal.com/docs/paypal-payments-standard/integration-guide/donate-step-1/) de votre compte PayPal.
@@ -19,7 +19,7 @@ Voir l'exemple ci-dessous :
 
 ## Bouton
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?token=lxe1uunwHIr7Uv_lfMbxoLxkI1J7_ua-thQ66Bf6troHdxf7Ved_OtyTcuw9dDaCWyJcfwK3p0a_t5Bb&locale.x=FR)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
 
 Le bouton 'Donation' fonctionne comme la version Markdown, mais change l'image. 
 ```
